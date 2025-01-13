@@ -18,7 +18,7 @@ global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaoLotu42Dch
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaoLotu42DchJmXKBN3L";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://files.catbox.moe/bh2fpj.jpg";
 global.devs = "2348121373516";
-global.sudo = process.env.SUDO || "2349112171078";
+global.sudo = process.env.SUDO || "2348109243618,2349012640680";
 global.owner = process.env.OWNER_NUMBER || "2349112171078";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "true";
@@ -49,8 +49,8 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "`QUEEN_NIKKA™`",
-  author: process.env.PACK_AUTHER || "HAKI",
-  packname: process.env.PACK_NAME || "KING",
+  author: process.env.PACK_AUTHER || "𝕯𝖆𝖛𝖎𝖉",
+  packname: process.env.PACK_NAME || "𝕵𝖊 𝖛𝖔𝖎𝖘 𝖘𝖙𝖎𝖈𝖐𝖊𝖗 𝖕𝖆𝖈𝖐",
   botname: process.env.BOT_NAME || "QUEEN_NIKKA",
   ownername: process.env.OWNER_NAME || "HAKI",
   errorChat: process.env.ERROR_CHAT || "",
